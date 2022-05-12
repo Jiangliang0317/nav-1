@@ -1,28 +1,13 @@
-27
-39E:\web\js\nav-1\dist\index.7cfdd337.css132967578529315864 0
-31E:\web\js\nav-1\dist\.gitignore132967584806546729 0
-27E:\web\js\nav-1\src\main.js132968009527422992 0
-20E:\web\js\nav-1\dist132968021202009688 1
-42E:\web\js\nav-1\dist\index.3fe84e22.js.map132968011168247590 0
+12
+27E:\web\js\nav-1\src\main.js132968032215730391 0
+20E:\web\js\nav-1\dist132968032499013376 1
+38E:\web\js\nav-1\dist\index.3fe84e22.js132968032498963506 0
 19E:\web\js\nav-1\src132966700717609154 1
 28E:\web\js\nav-1\src\imagines132966700786424073 1
+53E:\web\js\nav-1\dist\index.3fe84e22.js.map.1547586843132968032499033334 0
 30E:\web\js\nav-1\src\index.html132967559449688839 0
-45E:\web\js\nav-1\dist\GitHub-Mark.a5783103.png132967274322973392 0
 29E:\web\js\nav-1\src\style.css132967572016010954 0
 44E:\web\js\nav-1\src\imagines\GitHub-Mark.png132965880312211667 0
-39E:\web\js\nav-1\dist\index.2cdaf7bc.css132967572016835805 0
-43E:\web\js\nav-1\dist\index.2cdaf7bc.css.map132967572016835805 0
-38E:\web\js\nav-1\dist\index.3fe84e22.js132968011168207646 0
-42E:\web\js\nav-1\dist\index.de158e3a.js.map132967573617427571 0
-38E:\web\js\nav-1\dist\index.5c8e14fb.js132968021201949830 0
-53E:\web\js\nav-1\dist\index.5c8e14fb.js.map.1877746254132968021202029629 0
-43E:\web\js\nav-1\dist\index.7cfdd337.css.map132967578529375704 0
-38E:\web\js\nav-1\dist\index.9d808ffb.js132967574665917575 0
-42E:\web\js\nav-1\dist\index.9d808ffb.js.map132967574665987389 0
-39E:\web\js\nav-1\dist\index.b64315ee.css132968021201949830 0
-43E:\web\js\nav-1\dist\index.b64315ee.css.map132967574665987389 0
-38E:\web\js\nav-1\dist\index.d1b3db7a.js132967578529315864 0
-54E:\web\js\nav-1\dist\index.b64315ee.css.map.3268752448132968021202029629 0
-42E:\web\js\nav-1\dist\index.d1b3db7a.js.map132967578529375704 0
-38E:\web\js\nav-1\dist\index.de158e3a.js132967573617427571 0
-31E:\web\js\nav-1\dist\index.html132968021201949830 0
+39E:\web\js\nav-1\dist\index.7cfdd337.css132968032498963506 0
+54E:\web\js\nav-1\dist\index.7cfdd337.css.map.2195261459132968032499033334 0
+31E:\web\js\nav-1\dist\index.html132968032498963506 0
