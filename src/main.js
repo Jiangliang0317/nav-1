@@ -3,8 +3,8 @@ const $lastLi = $siteList.find('li.last')
 const x = localStorage.getItem('x')
 const xObject = JSON.parse(x)
 const hashMap = xObject || [
-  {logo: 'A', url: 'https://developer.mozilla.org/zh-CN/'},
-  {logo: 'B', url: 'https://github.com/'}
+  {logo: 'M', url: 'https://developer.mozilla.org/zh-CN/'},
+  {logo: 'G', url: 'https://github.com/'}
 ]
 const simplifyUrl = (url) => {
   return url.replace('https://', '')
